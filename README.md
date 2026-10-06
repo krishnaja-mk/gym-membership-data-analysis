@@ -1,6 +1,4 @@
 # gym-membership-data-analysis
-SQL project for analyzing gym membership data using MySQL.
-# gym-membership-data-analysis
 
 SQL project for analyzing gym membership data using MySQL.
 
